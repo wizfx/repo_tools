@@ -2,6 +2,9 @@
 ####################################
 # home:
 # ln -f /c/depot/repo_tools/bash/.bashrc /c/Users/wizfx/.bashrc
+# also
+# subst D: C:\ # to create a "D:" drive for 
+
 ####################################
 # work:
 # ln -f /d/depot/repo_tools/bash/.bashrc /c/Users/wiz/.bashrc ??
